@@ -1,0 +1,3 @@
+D:/tangcishe/cmake-build-debug/CMakeFiles/tangcishe.dir
+D:/tangcishe/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/tangcishe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
